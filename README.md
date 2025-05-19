@@ -31,10 +31,24 @@ Explorei os componentes de **rede virtual (VNet)** e recursos associados como:
 - **DNS personalizado**: configuração de domínios internos.
 
 ## 💾 Armazenamento e Migração
-Por fim, aprendi sobre os principais serviços de **armazenamento no Azure**, como:
-- Criação de **Storage Accounts** e **containers** para armazenar arquivos.
-- Uso de **discos gerenciados** para VMs.
-- Soluções de **migração de dados** e aplicações do ambiente local para a nuvem, garantindo continuidade e escalabilidade.
+Também entendi os serviços de **armazenamento do Azure**, incluindo:
+- Criação de **Storage Accounts** e containers para armazenar objetos.
+- Uso de **discos gerenciados** para máquinas virtuais.
+- Ferramentas de **migração de dados** de ambientes locais para a nuvem.
+
+---
+
+## 🌩️ Conceitos Fundamentais de Cloud Computing
+
+Durante o curso, alguns conceitos teóricos também foram destacados:
+
+- **Nuvem Pública**: modelo em que recursos e serviços são fornecidos por um provedor (como a Microsoft) para múltiplas empresas e usuários. É escalável, econômica e amplamente acessível.
+  
+- **Nuvem Privada**: ambiente exclusivo de uma única organização, sem acesso de usuários externos. Oferece maior controle e segurança para dados sensíveis.
+
+- **CapEx (Capital Expenditure)**: representa os **investimentos de capital em infraestrutura física**, como servidores e data centers próprios.
+
+- **Nuvem Híbrida**: combinação das nuvens pública e privada. Permite, por exemplo, manter dados sensíveis em um ambiente privado e usar recursos escaláveis da nuvem pública para outras operações.
 
 ---
 
